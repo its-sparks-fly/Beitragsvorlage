@@ -1,5 +1,5 @@
 # Beitragsvorlage<br />
-<h1>Vorlage für neues Thema pro Forum<h1>
+<h1>Vorlage für neues Thema pro Forum</h1>
 Mir hat in MyBB die Möglichkeit gefehlt, ohne viel Arbeit Usern beim Erstellen eines neuen Themas in bestimmten Unterforen eine Vorlage für neue Themen vorzugeben.;) Wer ein neues Thema in einem mit Vorlage ausgestattetem Unterforum erstellt, erhält also bei einem Klick auf "Neues Thema" eine Vorlage, die er ausfüllen kann. Diese lässt sich im ACP unter "Foreneinstellungen bearbeiten" für jedes Unterforum einzeln einstellen.
 
 <h1>Plugin funktionsfähig machen</h1>
